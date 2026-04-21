@@ -304,5 +304,9 @@
   "Arrow Size": "箭头大小",
   "Arrow Distance": "箭头距离",
   "Ultimate Charge": "终极技能充能",
-  "Arrow Displays": "箭头显示"
+  "Arrow Displays": "箭头显示",
+  "[Hold]": "[按住]",
+  "[Toggle]": "[切换]",
+  "[Always]": "[始终]",
+  "Control 2nd PC": "控制第二台电脑"
 }
